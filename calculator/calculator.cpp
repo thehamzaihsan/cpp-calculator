@@ -46,7 +46,7 @@ int main()
 		cout << "Answer is:" << a % b;
 		break;
 	default:
-		cout << "!!wrong input!!";
+		cout << "!!wrong input!!!";
 		break;
 	}
 }
